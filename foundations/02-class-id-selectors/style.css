@@ -2,3 +2,8 @@
   background-color: #ffa7a7;
   font-family: Verdana, sans-serif;
 }
+
+#second-element {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
